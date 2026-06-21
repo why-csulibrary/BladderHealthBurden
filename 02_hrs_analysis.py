@@ -18,8 +18,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src import hrs_longitudinal, hrs_transition
-
+import hrs_longitudinal
+import hrs_transition
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run HRS bladder-health burden analyses.")
