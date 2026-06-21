@@ -1,5 +1,5 @@
 # BladderHealthBurden
-A streamlined public repository, BladderHealthBurden, containing workflow-oriented scripts for bladder-health burden phenotype construction and multicohort validation, HRS longitudinal analyses, and NHANES biomarker and mortality contextualisation will be made available upon publication. 
+This repository contains workflow-oriented scripts for bladder-health burden phenotype construction, multicohort validation, HRS longitudinal analyses, and NHANES biomarker and mortality contextualisation. Original cohort-level data are not redistributed because access is governed by the corresponding cohort data-use policies.
 
 ## Main workflows
 
